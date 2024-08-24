@@ -39,3 +39,8 @@
 h1 {
   text-align: center;
 }
+.vertikalne, .horizontalne, .sirko {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
