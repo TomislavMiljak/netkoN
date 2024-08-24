@@ -1,0 +1,40 @@
+/* * {
+    box-sizing: border box;
+}
+
+.intro { 
+    text-align: center; 
+    font-family: Arial;
+  }
+  
+  h2 { 
+    font-size: 36px;
+  }
+  
+  p { 
+    font-size: 14pt;
+  }
+  
+  #photos-gallery { 
+    width: 20%; 
+    height: 20%;
+    margin: 50px auto;
+    object-fit: contain;
+  }
+  
+  #current-photo { 
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+  } 
+
+   */
+
+   nav ul {
+    display: flex;
+    gap: 3rem;
+}
+
+h1 {
+  text-align: center;
+}

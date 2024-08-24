@@ -1,0 +1,19 @@
+nav ul {
+    display: flex;
+    gap: 3rem;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+
+div a {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
