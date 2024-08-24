@@ -4,6 +4,7 @@ box-sizing: border-box;
 nav ul {
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
     gap: 3rem;
     flex-wrap: wrap;
 }

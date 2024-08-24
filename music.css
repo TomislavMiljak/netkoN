@@ -1,6 +1,11 @@
 nav ul {
     display: flex;
+    justify-content: space-evenly;
     gap: 3rem;
+}
+
+h1 {
+  text-align: center;
 }
 
 div {
@@ -12,8 +17,4 @@ div {
 
 div a {
     color: white;
-}
-
-h1 {
-    text-align: center;
 }
